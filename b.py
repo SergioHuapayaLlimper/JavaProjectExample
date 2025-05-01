@@ -1,6 +1,6 @@
 print("Hola Mundo")
 a = 8
-b = 9
+b = 7
 suma = a + b
 print(suma)
 print("Me llamo Sergio")
